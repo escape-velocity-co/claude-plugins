@@ -10,7 +10,7 @@
     {
       "name": "mission-lock",
       "displayName": "Mission Lock Analyzer",
-      "description": "analyzes a company's governing documents and assesses conditions related to the concept of \"Mission Lock\": qualities that affect how durably a company's mission is protected. These are mechanisms like Public Benefit Corporation status, purpose declaration and amendment thresholds.",
+      "description": "Analyzes a company's governing documents and assesses conditions related to the concept of \"Mission Lock\": qualities that affect how durably a company's mission is protected.",
       "source": {
         "source": "git-subdir",
         "url": "escape-velocity-co/mission-lock",
